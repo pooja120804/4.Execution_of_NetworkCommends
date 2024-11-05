@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-### NAME:s.pooja abirami
-### REG.NO:212222240046
+### NAME: S.Pooja abirami
+### REG.NO:212223100041
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
