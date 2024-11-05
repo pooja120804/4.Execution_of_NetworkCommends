@@ -1,5 +1,5 @@
 # 4.Execution_of_NetworkCommands
-### NAME: KARTHIKEYAN R
+### NAME:s.pooja abirami
 ### REG.NO:212222240046
 
 ## AIM :Use of Network commands in Real Time environment
